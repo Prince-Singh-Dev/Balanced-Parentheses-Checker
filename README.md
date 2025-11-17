@@ -53,8 +53,10 @@ Otherwise → Not Balanced
 # 🛠️ How to Run
 1️⃣ Compile the code
 gcc balanced_parentheses.c -o checker
+
 2️⃣ Run the program
 ./checker
+
 3️⃣ Enter any expression
 Example:
 Enter an expression: (5+6)-{5*4}+{A+B}
